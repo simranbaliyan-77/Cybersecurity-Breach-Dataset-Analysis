@@ -22,7 +22,16 @@ The project includes visual dashboards:
 - Attack Methods Distribution
 - Sector-wise Breaches
 - Yearly Trends
+## Visual Outputs
 
+### Attack Methods
+![Attack Methods](attack_methods.png)
+
+### Sector Analysis
+![Sectors](sectors.png)
+
+### Yearly Trends
+![Year Trend](year_trend.png)
 ## Project Structure
 - analysis.py → main analysis code
 - databreachproject.csv → dataset
