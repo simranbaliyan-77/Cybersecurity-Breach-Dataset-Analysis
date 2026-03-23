@@ -1,6 +1,5 @@
 # Cybersecurity-Breach-Dataset-Analysis
 This is my 2nd project 
-# Cybersecurity Breach Dataset Analysis
 
 ## Overview
 This project analyzes a real-world cybersecurity breach dataset to identify attack patterns, industry risks, and trends over time.
